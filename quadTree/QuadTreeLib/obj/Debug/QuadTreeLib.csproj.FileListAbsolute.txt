@@ -1,0 +1,6 @@
+A:\УЧЁБА И НУЖНОЕ\QUAD TREE\сурс\QuadTreeLib\bin\Debug\QuadTreeLib.dll
+A:\УЧЁБА И НУЖНОЕ\QUAD TREE\сурс\QuadTreeLib\bin\Debug\QuadTreeLib.pdb
+A:\УЧЁБА И НУЖНОЕ\QUAD TREE\сурс\QuadTreeLib\obj\Debug\QuadTreeLib.csprojAssemblyReference.cache
+A:\УЧЁБА И НУЖНОЕ\QUAD TREE\сурс\QuadTreeLib\obj\Debug\QuadTreeLib.csproj.CoreCompileInputs.cache
+A:\УЧЁБА И НУЖНОЕ\QUAD TREE\сурс\QuadTreeLib\obj\Debug\QuadTreeLib.dll
+A:\УЧЁБА И НУЖНОЕ\QUAD TREE\сурс\QuadTreeLib\obj\Debug\QuadTreeLib.pdb
